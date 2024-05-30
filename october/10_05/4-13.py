@@ -16,3 +16,15 @@ if ((int(grade) >= 10) and int(grade) <= 12):
     print("This number of AP classes you have entered is invalid. Please enter a number from 1-4.")
 else:
   print("Sorry, you must be in grades 10-12 in order to take AP courses.")
+
+"""
+Write a program which tells a student how many APs a student can take.
+Use nested ifs to design this program
+
+Specifications:
+  Only 10 to 12th graders are allowed to take AP
+  Maximum 4 APs are allowed
+  Ask the user "how many AP courses user has already taken
+  Calculate   “ how many more APs can be signed up to reach total 4 number of APs” 
+  You may use below nested ifs structure
+"""

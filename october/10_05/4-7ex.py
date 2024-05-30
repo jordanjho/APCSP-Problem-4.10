@@ -9,3 +9,5 @@ if (i >= 10):
         print ("i is greater than 12 ")
 else:
     print("i is less than 10")
+
+# Example of if, else if, and else statements

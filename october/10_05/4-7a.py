@@ -8,3 +8,8 @@ if (number >= 10):
     print("Number is greater than 14")
 else:
   print("number is less than 10")
+
+"""
+Ask the user to enter a number. If the number is greater than equal to 10, enter in nested if. 
+In nested if, decide if number is greater than 14
+"""  
