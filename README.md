@@ -1,1 +1,1 @@
-AP Computer Science Principle programs written in Python
+Programs written in Python for an introductory class
